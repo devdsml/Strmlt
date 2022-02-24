@@ -1,2 +1,2 @@
         - web application using Streamlit
-        - Deployed Heroku Cloud Service 
+        - Deployed to Heroku 
